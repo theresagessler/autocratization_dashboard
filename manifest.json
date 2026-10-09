@@ -3959,32 +3959,20 @@
     }
   },
   "files": {
-    ".Rprofile": {
-      "checksum": "1a5581f57fa1c7b97f2388df8ed65f99"
+    ".gitattributes": {
+      "checksum": "05bdb783ee6514c8c072e47680af8ff7"
     },
-    "__launch_test.R": {
-      "checksum": "59adf6d23fe09e5fef957b3b6b0434b7"
+    ".Rprofile": {
+      "checksum": "7c107b69c841756fb30b716e42307565"
     },
     "app.R": {
       "checksum": "eb8186a95b84662775fc227e6ae5052b"
     },
-    "check_zerofill_matches_getstock.R": {
-      "checksum": "f27478487e1d4fb0e8150d0908613e3d"
-    },
     "episode_data.rds": {
-      "checksum": "c0777fbb39ce2d2fcc71ffca4219747e"
-    },
-    "prepare_data.R": {
-      "checksum": "96d30ec204a6683bad6d0120da7c1739"
+      "checksum": "11ed4b0c64826ddb63b2080e4b79f205"
     },
     "renv.lock": {
       "checksum": "74158db6addee03252ac8c7b3e6a0e13"
-    },
-    "shiny_stderr.log": {
-      "checksum": "e08ad914c2eba482e0fa00792cba143c"
-    },
-    "shiny_stdout.log": {
-      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
     }
   },
   "users": null
