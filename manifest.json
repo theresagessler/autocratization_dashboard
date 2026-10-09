@@ -921,42 +921,6 @@
         "RemoteSha.Version": "2.6.0"
       }
     },
-    "demstock": {
-      "Source": "github",
-      "Repository": null,
-      "description": {
-        "Package": "demstock",
-        "Type": "Package",
-        "Title": "demstock",
-        "Version": "2.0",
-        "Date": "2026-04-13",
-        "Authors@R": "c(\n    person(\"Amanda\", \"Edgell\", email = \"abedgell@ua.edu\", role = c(\"aut\"), comment = \"Author\"),\n    person(\"Matthew\", \"Wilson\", email = \"wilso929@mailbox.sc.edu\", role = c(\"aut\"), comment = \"Author\"),\n    person(\"Vanessa\", \"Boese-Schlosser\", email = \"vanessa.boese@wzb.eu\", role = c(\"aut\"), comment = \"Author\"),\n    person(\"Linnea\", \"Fox\", email = \"linnea.fox@v-dem.net\", role = c(\"cre\", \"aut\"), comment = \"Author and Active Maintainer\"))",
-        "Description": "This package enables researchers to calculate stock measures (a country's accumulated experience with a particular institution or practice) for any variable in the V-Dem dataset.",
-        "Depends": "R (>= 4.0.0)",
-        "Imports": "vdemdata (>= 16.0), dplyr, tidyr",
-        "Remotes": "vdeminstitute/vdemdata",
-        "License": "GPL-3",
-        "Suggests": "testthat",
-        "Encoding": "UTF-8",
-        "LazyData": "true",
-        "RoxygenNote": "7.3.3",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteRepo": "demstock",
-        "RemoteUsername": "vdeminstitute",
-        "RemoteRef": "HEAD",
-        "RemoteSha": "c99cdb1d62ead63b05355adba96b95316cfcc3a0",
-        "GithubRepo": "demstock",
-        "GithubUsername": "vdeminstitute",
-        "GithubRef": "HEAD",
-        "GithubSHA1": "c99cdb1d62ead63b05355adba96b95316cfcc3a0",
-        "NeedsCompilation": "no",
-        "Packaged": "2026-09-25 06:51:04 UTC; Administrator",
-        "Author": "Amanda Edgell [aut] (Author),\n  Matthew Wilson [aut] (Author),\n  Vanessa Boese-Schlosser [aut] (Author),\n  Linnea Fox [cre, aut] (Author and Active Maintainer)",
-        "Maintainer": "Linnea Fox <linnea.fox@v-dem.net>",
-        "Built": "R 4.6.1; ; 2026-09-25 06:51:05 UTC; windows"
-      }
-    },
     "digest": {
       "Source": "CRAN",
       "Repository": "https://packagemanager.posit.co/cran/latest",
@@ -3681,39 +3645,6 @@
         "RemoteSha.Version": "0.7.3"
       }
     },
-    "vdemdata": {
-      "Source": "github",
-      "Repository": null,
-      "description": {
-        "Package": "vdemdata",
-        "Type": "Package",
-        "Title": "Provides most recent V-Dem and V-Party data and some additional\nfeatures",
-        "Version": "16.0",
-        "Authors@R": "c(person(\"Seraphine\", \"Maerz\", email = \"maerz@soz.uni-frankfurt.de\", role = c(\"aut\", \"cre\")),\n             person(\"Amanda\", \"Edgell\", email = \"amanda.edgell@v-dem.net\", role = c(\"aut\")),\n             person(\"Sebastian\", \"Hellmeier\", email = \"sebastian.hellmeier@v-dem.net\", role = c(\"aut\")),\n             person(\"Nina\", \"Ilchenko\", email = \"nina.ilchenko@v-dem.net\", role = c(\"aut\")),\n             person(\"Linnea\", \"Fox\", email = \"linnea.fox@v-dem.net\", role = c(\"aut\")))",
-        "Maintainer": "Linnea Fox <linnea.fox@v-dem.net>",
-        "Description": "This package contains the most recent full V-Dem data set\n             plus external variables (see here:\n             https://www.v-dem.net/data/the-v-dem-dataset/), \n             the V-Party data set (https://www.v-dem.net/data/v-party-dataset/), and\n             offers some additional functions to work with vdem data.",
-        "Depends": "R (>= 3.5.0)",
-        "Imports": "dplyr, tidyr, stringr, ggplot2, tidyselect",
-        "License": "GPL-3",
-        "Encoding": "UTF-8",
-        "LazyData": "true",
-        "RoxygenNote": "7.2.3",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteRepo": "vdemdata",
-        "RemoteUsername": "vdeminstitute",
-        "RemoteRef": "HEAD",
-        "RemoteSha": "f4dd26922e658442524dfd954bf14f7ebe622d5d",
-        "GithubRepo": "vdemdata",
-        "GithubUsername": "vdeminstitute",
-        "GithubRef": "HEAD",
-        "GithubSHA1": "f4dd26922e658442524dfd954bf14f7ebe622d5d",
-        "NeedsCompilation": "no",
-        "Packaged": "2026-09-25 06:50:26 UTC; Administrator",
-        "Author": "Seraphine Maerz [aut, cre],\n  Amanda Edgell [aut],\n  Sebastian Hellmeier [aut],\n  Nina Ilchenko [aut],\n  Linnea Fox [aut]",
-        "Built": "R 4.6.1; ; 2026-09-25 06:50:29 UTC; windows"
-      }
-    },
     "viridisLite": {
       "Source": "CRAN",
       "Repository": "https://packagemanager.posit.co/cran/latest",
@@ -3963,7 +3894,7 @@
       "checksum": "05bdb783ee6514c8c072e47680af8ff7"
     },
     ".Rprofile": {
-      "checksum": "7c107b69c841756fb30b716e42307565"
+      "checksum": "372e461717ac436237947231540e6fa4"
     },
     "app.R": {
       "checksum": "eb8186a95b84662775fc227e6ae5052b"
@@ -3972,7 +3903,7 @@
       "checksum": "11ed4b0c64826ddb63b2080e4b79f205"
     },
     "renv.lock": {
-      "checksum": "74158db6addee03252ac8c7b3e6a0e13"
+      "checksum": "0142b82a83d8d65dbb6ccf937544c3d2"
     }
   },
   "users": null
